@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FB4 Fragen-Trainer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <div class="brand-title">FB4 Fragen-Trainer</div>
+      <div class="brand-subtitle"></div>
+    </div>
+    <div class="header-actions">
+      <button id="btnSettings" class="btn btn-secondary" type="button">Einstellungen</button>
+      <button id="btnReset" class="btn btn-secondary" type="button">Neu starten</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="panelSetup" class="card">
+      <h1>Setup</h1>
+
+      <div class="grid">
+        <div>
+          <label class="label" for="mode">Modus</label>
+          <select id="mode" class="select">
+            <option value="practice" selected>Üben (sofort Feedback)</option>
+            <option value="exam">Prüfungsmodus (Feedback am Ende)</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="label" for="order">Reihenfolge</label>
+          <select id="order" class="select">
+            <option value="shuffle" selected>Zufällig</option>
+            <option value="inorder">In Reihenfolge</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="label" for="limit">Anzahl Fragen</label>
+          <input id="limit" class="input" type="number" min="1" value="30" />
+          <div class="hint">Leer/0 = alle</div>
+        </div>
+
+        <div>
+          <label class="label" for="filter">Filter (Sachgebiet)</label>
+          <select id="filter" class="select">
+            <option value="ALL" selected>Alle</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="row">
+        <button id="btnStart" class="btn btn-primary" type="button">Start</button>
+        <div id="setupMeta" class="meta"></div>
+      </div>
+    </section>
+
+    <section id="panelQuiz" class="card hidden" aria-live="polite">
+      <div class="topbar">
+        <div class="progress">
+          <div class="progress-line">
+            <div id="progressBar" class="progress-bar"></div>
+          </div>
+          <div id="progressText" class="progress-text">0/0</div>
+        </div>
+        <div class="scorebox">
+          <div class="scoreline"><span>Richtig:</span> <strong id="scoreCorrect">0</strong></div>
+          <div class="scoreline"><span>Falsch:</span> <strong id="scoreWrong">0</strong></div>
+          <div class="scoreline"><span>Quote:</span> <strong id="scoreRate">0%</strong></div>
+        </div>
+      </div>
+
+      <div class="qid" id="qid"></div>
+      <div class="question" id="question"></div>
+
+      <div id="answers" class="answers"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="row">
+        <button id="btnPrev" class="btn btn-secondary" type="button">Zurück</button>
+        <button id="btnNext" class="btn btn-primary" type="button">Weiter</button>
+        <button id="btnFinish" class="btn btn-primary hidden" type="button">Ergebnis</button>
+      </div>
+    </section>
+
+    <section id="panelResults" class="card hidden">
+      <h2>Ergebnis</h2>
+      <div id="resultsSummary" class="results-summary"></div>
+
+      <details class="details" open>
+        <summary>Falsche Fragen anzeigen</summary>
+        <div id="wrongList" class="wrong-list"></div>
+      </details>
+
+      <div class="row">
+        <button id="btnRestart" class="btn btn-primary" type="button">Nochmal</button>
+      </div>
+    </section>
+
+    <section id="panelSettings" class="card hidden">
+      <h2>Einstellungen</h2>
+      <div class="grid">
+        <div>
+          <label class="label" for="showCorrect">Korrekte Antwort anzeigen (Üben)</label>
+          <select id="showCorrect" class="select">
+            <option value="yes" selected>Ja</option>
+            <option value="no">Nein</option>
+          </select>
+          <div class="hint">Im Prüfungsmodus wird die korrekte Antwort erst im Ergebnis angezeigt.</div>
+        </div>
+
+        <div>
+          <label class="label" for="autoAdvance">Automatisch weiter (Üben)</label>
+          <select id="autoAdvance" class="select">
+            <option value="no" selected>Nein</option>
+            <option value="yes">Ja (nach 800 ms)</option>
+          </select>
+        </div>
+      </div>
+	  
+	<hr style="margin:20px 0">
+
+	<h3>Cookies & lokale Speicherung</h3>
+
+	<div class="small" style="margin-bottom:12px">
+	  Wir verwenden <strong>keine</strong> Tracking- oder Werbe-Cookies.
+	  Optional kannst du erlauben, dass deine Einstellungen und dein Lernfortschritt
+	  lokal gespeichert werden.
+	</div>
+
+	<div class="cookie-item">
+	  <div class="cookie-item__head">
+		<label class="cookie-toggle">
+		  <input id="consentPrefs" type="checkbox" />
+		  <span class="cookie-toggle__ui"></span>
+		  <span class="cookie-item__name">
+			Präferenzen & Lernfortschritt speichern
+		  </span>
+		</label>
+	  </div>
+	  <div class="cookie-item__desc">
+		Speichert Einstellungen (Modus, Filter, Anzeigeoptionen) sowie deinen aktuellen
+		Lernfortschritt lokal auf deinem Gerät (Cookie + localStorage).
+	  </div>
+	</div>
+
+	<div class="row" style="margin-top:14px">
+	  <button id="btnCloseSettings" class="btn btn-primary" type="button">Schließen</button>
+	</div>
+
+    <footer class="footer">
+      <div class="small">
+       
+      </div>
+    </footer>
+  </main>
+
+<div id="cookieBanner" class="cookie-banner hidden" role="dialog" aria-live="polite" aria-label="Cookie Hinweis">
+  <div class="cookie-banner__content">
+    <div class="cookie-banner__title">Hinweis zu Cookies</div>
+
+    <div class="cookie-banner__text">
+      Diese App setzt <strong>technisch notwendige Cookies</strong>, damit grundlegende Funktionen zuverlässig laufen
+      (z. B. Bedienung, Sicherheit, UI-Status). <strong>Kein Tracking, keine Werbung.</strong><br><br>
+      Optional kannst du unter <strong>Einstellungen</strong> erlauben, dass <strong>Einstellungen</strong> und
+      <strong>Lernfortschritt</strong> lokal gespeichert werden (Cookie + localStorage), damit du nach einem Refresh
+      an derselben Stelle weitermachen kannst.
+    </div>
+
+    <div class="cookie-banner__actions">
+      <button id="cookieOpenSettings" class="btn btn-primary" type="button">
+        Zu den Einstellungen
+      </button>
+      <button id="cookieCloseBanner" class="btn btn-secondary" type="button">
+        Schließen
+      </button>
+    </div>
+  </div>
+</div>
+
+
+
+  <script src="app.js"></script>
+  
+</body>
+</html>

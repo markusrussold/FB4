@@ -1,0 +1,2092 @@
+[
+  {
+    "id": "4 A.1.01",
+    "question": "Wodurch kann es zu verminderter Bruchlast von Leinen kommen?",
+    "answers": [
+      "durch Knick und Alterung",
+      "durch Lagerung in Zugluft",
+      "durch Auflösung der Farbe in den Tropen",
+      "durch die Corioliskraft auf der südlichen Halbkugel der Erde"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.02",
+    "question": "Welche Funktion hat ein Augspleiss?",
+    "answers": [
+      "er formt ein Auge in ein Tau ohne wesentliche Verringerung der Bruchlast",
+      "er formt ein Auge in ein Tau und erhöht dadurch dessen Bruchlast",
+      "er formt ein Auge in ein Tau mit gezielter Verringerung der Bruchlast",
+      "er formt ein Auge in ein Tau, das über jeden Poller passt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.03",
+    "question": "Wie unterscheiden sich Behelfstakling und genähter Takling?",
+    "answers": [
+      "beim Behelfstakling sind die Enden des Takelgarns nur unter die Windungen gezogen",
+      "beim Behelfstakling ist das Takelgarn 5 mm dick und kann nicht genäht werden",
+      "beim Behelfstakling sind die Enden des Takelgarns vorn und hinten vernäht",
+      "beim Behelfstakling werden die Tauenden verknotet, beim genähten Takling gestopft"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.04",
+    "question": "Welchen Vorteil hat ein Langspleiss gegenüber einem Kurzspleiss?",
+    "answers": [
+      "Der Langspleiss verdickt das Tau nicht wesentlich an der Spleißstelle",
+      "der Langspleiss hat an der Spleißstelle lange Enden für zusätzliche Aufgaben",
+      "Der Langspleiss macht das Tau an der Spleißstelle dünner",
+      "Der Langspleiss geht über die gesamte Länge des Taus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.05",
+    "question": "Warum kann ein Knick in einer Leine unter Belastung zur Reduktion der Bruchlast führen?",
+    "answers": [
+      "weil die einzelnen Fasern im Knick ungleich belastet werden",
+      "weil die einzelnen Fasern im Knick schamfielen",
+      "weil die einzelnen Fasern im Knick chemisch miteinander reagieren",
+      "weil sich im Knick Salz absetzt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.06",
+    "question": "Wie verhindern Sie das Aufdrehen eines Tampens aus Naturfaser?",
+    "answers": [
+      "durch Setzen eines genähten Taklings",
+      "durch Verschweißen mit einer offenen Flamme",
+      "durch Verknoten",
+      "durch Verkleben mit Flexkleber"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.07",
+    "question": "Wie verbinden Sie zwei Tampen dauerhaft miteinander?",
+    "answers": [
+      "durch einen Kurz- oder Langspleiß",
+      "durch Verschweissen",
+      "durch einen Stopperstek",
+      "durch zwei ineinander gesteckte Webeleinsteks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.08",
+    "question": "Welchen Vorteil hat ein Augspleiß?",
+    "answers": [
+      "er vermindert die Bruchlast der Leine kaum",
+      "er kann mit einem einfachen Palstek gemacht werden",
+      "er vergrößert die Dehnfähigkeit der Leine",
+      "der Ankerschaft kann direkt mitgespleißt werden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.09",
+    "question": "Womit schützt man das Ende eines Taues gegen \"Aufdröseln\"?",
+    "answers": [
+      "mit einem Behelfstakling",
+      "mit einem Takelring",
+      "mit einer Takelwolle",
+      "mit einem Hilfskleber"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.10",
+    "question": "Was ist eine typische Anwendung für einen \"Augspleiss\"?",
+    "answers": [
+      "um eine Trosse um einen Poller zu legen",
+      "um eine Stahlwant am Püttingeisen zu befestigen",
+      "um eine Leine mit mehreren Oesen zu versehen",
+      "um mit Schnüren Brillen zu formen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.11",
+    "question": "Warum sollte man Tauwerk am Schiff rechtzeitig austauschen?",
+    "answers": [
+      "weil Alterung und zeitweise Überbelastung die Bruchlast reduzieren",
+      "weil sehr rasch immer bessere Tauwerke auf den Markt kommen",
+      "weil Alterung und Verschmutzung das Tauwerk unansehnlich machen",
+      "weil bei Kontrollen das Alter der Leinen geprüft wird"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.12",
+    "question": "Was bewirkt ein Knick in einem Tau?",
+    "answers": [
+      "Eine Reduzierung der Bruchlast",
+      "Eine Erhöhung der Anzahl der Kardeele",
+      "Eine Erhöhung der Bruchlast",
+      "Eine Reduzierung der Anzahl der Kardeele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.1.13",
+    "question": "Wie heißt die Verbindung zweier Taue bei der die Kardeele an einer verdickten Stelle miteinander verflochten werden?",
+    "answers": [
+      "Kurzspleiss",
+      "Dickspleiss",
+      "Langspleiss",
+      "Kardeelspleiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.01",
+    "question": "Welche Kräfte kann ein guter Seeanker auf seine Aufhängepunkte ausüben?",
+    "answers": [
+      "so große, dass man gute Klampen dafür braucht",
+      "sehr kleine, Befestigung an der Reling genügt",
+      "sehr große nur dann wenn die Leinenlänge über 2000m ist",
+      "so kleine, dass man ihn aus der Hand fahren kann"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.02",
+    "question": "Wozu dient ein Treibanker?",
+    "answers": [
+      "zum Vermindern der Fahrt",
+      "zum Vermindern der Wellen",
+      "zum Nachziehen des Rettungsbootes",
+      "zum Zusammentreiben von Fischen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.03",
+    "question": "Wofür werden Landleinen üblicherweise verwendet?",
+    "answers": [
+      "zum Vermindern des Schwojens",
+      "zum an Land gehen",
+      "zum Verbinden von zwei Inseln",
+      "zum Absichern des Ankerschaftes an Land"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.04",
+    "question": "Wann ist Ankern mit zwei Ankern mittels \"Vermuren\" sinnvoll?",
+    "answers": [
+      "wenn man in einem Gebiet mit kenterndem Strom ankert",
+      "wenn man am Ankerplatz zwei Murings zur Verfügung hat",
+      "wenn man in einem Gebiet mit konstantem Strom ankert",
+      "Wenn man die beiden Anker an derselben Stelle werfen will"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.05",
+    "question": "Wie können Sie verhindern, dass nach Kentern des Stromes der Anker in entgegengesetzter Richtungen belastet wird ?",
+    "answers": [
+      "durch Vermuren",
+      "durch kurzstag holen der Kette",
+      "durch einen zweiten Kettenstopper",
+      "durch Verkatten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.06",
+    "question": "Unter welchen Umständen werden Sie \"verkatten\"?",
+    "answers": [
+      "besonders starker Wind mit wenig Drehung wird erwartet",
+      "besonders drehende Winde werden erwartet",
+      "in kleiner Bucht, um den Schwojradius zu reduzieren",
+      "in Gezeitengebieten mit starkem Strom"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.3.07",
+    "question": "Was ist die typische Funktion eines Treibankers?",
+    "answers": [
+      "die Reduzierung der Geschwindigkeit des Schiffes",
+      "die Verbindung von Treibgut mit dem Schiff",
+      "die Erhöhung der Geschwindigkeit des Schiffes",
+      "die Verringerung der Wellenhöhe mit dem Trossenwiderstand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.01",
+    "question": "Was wird als Langfahrt bezeichnet?",
+    "answers": [
+      "ein Törn, bei dem man mehrere Tage und Nächte auf See verbringt",
+      "ein Törn, bei dem man 70 sm im Küstenbereich zurücklegt",
+      "ein Törn von 0500 Uhr in der Früh bis 2100 Uhr abends auf See",
+      "ein Törn, bei dem ein Crewmitglied mehr als 7 Stunden am Ruder steht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.02",
+    "question": "Wie lange dauert die Törnvorbereitung für eine Langfahrt?",
+    "answers": [
+      "mehrere Wochen und Monate",
+      "es ist keine Törnvorbereitung notwendig",
+      "bis der Skipper alle Crewmitglieder ernannt hat",
+      "laut Versicherungsvorschrift 6 Monate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.03",
+    "question": "Welche Informationsmöglichkeiten hat der Skipper, um für eine Langfahrt eine Lebensmittelliste zu machen?",
+    "answers": [
+      "spezielle, nautische Literatur – Internet – Vereine",
+      "es gibt keine Möglichkeiten, außer selbst probieren",
+      "amtlicher Befähigungsausweis „Long Range Certificate“",
+      "amtliche Ernährungsrichtlinien für die Hohe See"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.04",
+    "question": "Was berechnet man vorrangig mittels einer Lebensmittelliste für eine Langfahrt?",
+    "answers": [
+      "Mengen, Vitamin- und Kaloriengehalt",
+      "nach wie vielen Tagen Gefahr von Skorbut besteht",
+      "die Mengen pro Lebendgewicht der Crewmitglieder",
+      "die Lebensmittelpreise in den verschiedenen Ländern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.05",
+    "question": "Wie sollte der Skipper die Crew einer Langfahrt einteilen?",
+    "answers": [
+      "mit Wacheplan und Rollenverteilung",
+      "eine Einteilung ergibt sich von selbst während der Fahrt",
+      "in Bugcrew und Heckcrew",
+      "nach Frauen und Männern getrennte Wachezyklen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.06",
+    "question": "Wozu benötigen Sie speziell bei Langfahrten einen Wacheplan?",
+    "answers": [
+      "damit nicht die gesamte Crew gleichzeitig ermüdet.",
+      "um das regelmäßige Bunkern sicherzustellen",
+      "damit immer der gleiche Rudergänger eingeteilt ist, der das Schiff am besten steuert",
+      "zur Vorlage beim Hafenmeister oder bei der Hafenpolizei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.07",
+    "question": "Ist die genaue Rollen- u. Wacheinteilung bei einer Atlantiküberquerung sehr wichtig?",
+    "answers": [
+      "ja, wesentlich wichtiger, als bei Tagestörns",
+      "nein, es ergibt sich alles ohne Einteilung",
+      "der Skipper teilt kurzfristig alles ein",
+      "jeder weiß selbst, was er zu tun hat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.08",
+    "question": "Was ist beim Check der sicherheitsrelevanten Ausrüstung vor einer Fahrt in den Bereich von Fahrtgebiet 4 zu beachten?",
+    "answers": [
+      "für Fahrtbereich 4 gibt es erweiterte Ausrüstungsvorschriften",
+      "für Fahrtbereich 4 müssen alle Sicherheitsausrüstungsgegenstände doppelt an Bord sein",
+      "für Fahrtbereich 4 sind die Ausrüstungsvorschriften ident mit denen anderer Fahrtbereiche",
+      "für Fahrtbereich 4 müssen spezielle tropentaugliche Seenotraketen an Bord sein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.09",
+    "question": "Wo findet man die für ein österreichisches Schiff nötige sicherheitsrelevante und nautische Ausrüstung?",
+    "answers": [
+      "in der Verordnung \"JachtVO\"",
+      "in der europäischen \"Resolution 40\"",
+      "in der Empfehlung \"Solas V\"",
+      "im \"Seeschifffahrtsgesetz\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.4.10",
+    "question": "Welche Ausrüstungsgegenstände sind in der österreichischen \"JachtVO\" extra für Fahrtbereich 4 vorgeschrieben?",
+    "answers": [
+      "Treibanker und Boje mit Markierungsstange",
+      "Jordananker und Boje für die Tripleine",
+      "Pilzanker und Notrigg",
+      "Ankerkette mit Längenmarkierung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.5.01",
+    "question": "Warum sollte man für den anfallenden Müll bei Langfahrten einen Plan aufstellen?",
+    "answers": [
+      "weil außer Speiseresten alles an Land entsorgt werden muss",
+      "weil zwar Glasflaschen, aber keine Dosen ins Meer geworfen werden dürfen",
+      "weil der anfallende Müll nur in geschlossenen Containern ins Meer entsorgt werden darf",
+      "weil Schiffe für Langfahrten keine Müllverbrennungsanlage betreiben dürfen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.5.02",
+    "question": "Wohin entsorgen wir den Müll bei Langfahrten?",
+    "answers": [
+      "nur Speisereste außerhalb der Küstengebiete ins Meer, alles andere an Land entsorgen",
+      "alles darf ins Meer geworfen werden was innerhalb von 75 Jahren verrottet",
+      "nur Glas und Metall in das Meer entsorgen",
+      "Schiffe für Langfahrten können um Ausnahmeregelungen ansuchen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 A.5.03",
+    "question": "Wodurch kann die Meeresfauna geschädigt werden?",
+    "answers": [
+      "durch den eingefahrenen Anker beim Ankern",
+      "durch das zu schnelle Vorbeisegeln an sensiblen Buchten",
+      "durch die Leine zur Befestigung des Schiffes an einer Boje",
+      "durch den Betrieb des Kühlschrankes in sensiblen Buchten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.1.01",
+    "question": "Was sollte man bei langen Überseefahrten zur Sicherheit miteinrechnen?",
+    "answers": [
+      "mögliche Materialermüdung an kritischen Stellen des Rumpfes",
+      "Holzpfosten mitnehmen zur späteren inneren Versteifung des Rumpfes",
+      "nur moderne Kohlefaser - Rumpfmaterialien verwenden",
+      "der Kiel kann brechen, Ersatzkiel kann nützlich sein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.1.02",
+    "question": "Wie heißt der Vorgang, bei dem sich Bläschen hinter der Gelcoatschicht eines Kunststoffrumpfes bilden?",
+    "answers": [
+      "Osmose",
+      "Blasenose",
+      "Zirrose",
+      "Ostrase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.1.03",
+    "question": "Welchen Vorteil hat ein Rumpf aus Stahl?",
+    "answers": [
+      "er kann Kollisionen ohne Löcher überstehen",
+      "er hält Haifische fern",
+      "er kann bei Schäden unter Wasser genietet werden",
+      "er rostet auch im Salzwasser nicht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.1.04",
+    "question": "Welche Bootsbaumaterialien werden oft verwendet?",
+    "answers": [
+      "Sperrholz, Aluminium, Stahlblech",
+      "verzinktes Messingblech und verzinktes Stahlblech",
+      "glasfaserverstärktes PVC (PolyVinylChlorid) und Gel",
+      "Porocell geformt, Gußstahl, Fichtenholz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.1.05",
+    "question": "Worauf muss man bei Schiffen mit Rümpfen aus Aluminium achten?",
+    "answers": [
+      "auf Korrosion durch Elektrolyse",
+      "auf Folienabrieb der Außenseite",
+      "auf das geringere Gewicht des Kieles",
+      "auf die Steifheit der Planken"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.2.01",
+    "question": "Welche Möglichkeit Süsswasser zu erzeugen ist auf langen Fahrten gebräuchlich?",
+    "answers": [
+      "Wasserentsalzung durch Umkehrosmose",
+      "Abwasserverdampfung",
+      "Wasserentsalzung in ölbefeuerten Entsalzungsanlagen",
+      "Wasserverdampfung mit Windenergie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.2.02",
+    "question": "Welche Heizungsart kann man für Fahrten in kalte Meeresgebiete leicht in Schiffe einbauen?",
+    "answers": [
+      "Ölheizung",
+      "Pellets-Ofen",
+      "Gas-Zentralheizung",
+      "offener Holzkamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.2.03",
+    "question": "Wozu haben Schiffe Wasserpumpen mit Wasserdruckausschalter?",
+    "answers": [
+      "zum Verteilen des Süsswassers im Druckwassersystem",
+      "zum Löschen von Bränden im Nassraum",
+      "zum Verteilen des Meerwassers in der Bilge",
+      "zum Einpumpen von Süsswasser in die Wassertanks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.2.04",
+    "question": "Welchen Tank führt man zur Entleerung des WC mit?",
+    "answers": [
+      "Schwarzwassertank",
+      "Blauwassertank",
+      "Grauwassertank",
+      "Süsswassertank"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 B.2.05",
+    "question": "Wie wird auf Booten meistens das Süsswasser zu den verschiedenen Süsswasserhähnen verteilt?",
+    "answers": [
+      "mit einer Druckwasserpumpe",
+      "mit der Kühlwasserpumpe",
+      "mit einer Bilgepumpe",
+      "mit einer Fußpumpe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.01",
+    "question": "Welche Koordinaten gibt es im Äquatorialsystem?",
+    "answers": [
+      "Sternenwinkel und Deklination",
+      "Abweitung und Höhenwinkel",
+      "Höhenwinkel und Azimut",
+      "Längenminuten und Breitenunterschied"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.02",
+    "question": "Welche Koordinaten gibt es im Horizontsystem?",
+    "answers": [
+      "Azimut und Höhenwinkel",
+      "LHA und Deklination",
+      "Abweitung und Breitenparallel",
+      "Längenminuten und Breitenminuten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.03",
+    "question": "Über welchen Längengradwinkel erstreckt sich im Regelfall eine (geometrische) Zeitzone auf der Erde?",
+    "answers": [
+      "15 Grad",
+      "7,5 Grad",
+      "24 Grad",
+      "30 Grad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.04",
+    "question": "Wie verhalten sich die Abstände zwischen verschiedenen Verbindungslinien zweier Punkten auf der Erde meistens?",
+    "answers": [
+      "Orthodrome ist kürzer als Loxodrome",
+      "Orthonormale ist kürzer als Loxonormale",
+      "Orthodrome ist länger als Loxodrome",
+      "Orthografie ist kürzer als Logopedie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.05",
+    "question": "Wie heißt die Kartenprojektion welche auch am Nordpol anwendbar ist?",
+    "answers": [
+      "Gnomonische Projektion",
+      "Polarkonforme Projektion",
+      "Harmonische Projektion",
+      "Nordlicht Projektion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.06",
+    "question": "Wie kann man die Richtung und Entfernung zum Bildpunkt eines Gestirnes errechnen?",
+    "answers": [
+      "durch Berechnung des nautischen Dreieckes",
+      "durch Berechnung des Strahlenganges durch das Fernrohr des Sextanten",
+      "durch Berechnung des seemännischen Viereckes",
+      "durch Berechnung der Sextantenhöhe zu zwei verschiedenen Zeitpunkten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.07",
+    "question": "Wie heißt die kürzeste Verbindungslinie zweier Punkte auf der Erdoberfläche?",
+    "answers": [
+      "Orthodrome",
+      "Loxodrome",
+      "rechtweisender Kurs",
+      "Isogone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.08",
+    "question": "Eine Loxodrome auf der Mercatorkarte ist…",
+    "answers": [
+      "eine Gerade",
+      "eine Kurve",
+      "eine Hyperbel",
+      "ein Kreis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.09",
+    "question": "Was ist der Unterschied zwischen einer Mercatorkarte und einer gnomonischen Karte?",
+    "answers": [
+      "bei der Mercatorkarte schneidet eine Kurslinie die Meridiane in einem immer gleich bleibenden Winkel; bei eine gnomonische Karte in einem sich verändernden Winkel",
+      "bei der Mercatorkarte schneidet eine Kurslinie die Meridiane in einem sich verändernden Winkel; bei der gnomonischen Karte immer im gleichbleibenden Winkel",
+	  "bei einer Mercatorkarte laufen die Meridiane als ein Strahlenbüschel auf den Pol zu; bei der gnomonischen Projektion liegen die Meridiane im rechten Winkel zu den Breitenparallelen",
+	  "eine Mercatorkarte hat 90 Breitenkreise und 360 Längenkreise; eine gnomonische Karte hat 60 Breitenkreise und 180 Längenkreise"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.10",
+    "question": "Die Zeitzone UTC wird von welchen Meridianen begrenzt?",
+    "answers": [
+      "7,5 ° W und 7,5° E",
+      "0° plus 7° nach W und 7° nach E",
+      "15° E und 7,5 ° nach E",
+      "30° W plus 7,5° nach W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.11",
+    "question": "Wie heißen Seekarten, auf denen eine Orthodrome als Gerade erscheint?",
+    "answers": [
+      "Gnomonische Seekarten",
+      "Mercator - Polkarten",
+      "Orthodromische Rasterkarten",
+      "Loxodromische Doppler Karten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.1.12",
+    "question": "Wie ist die Zonenzeit jeweils 7,5 Längengrade vor und nach gewissen Meridianen definiert?",
+    "answers": [
+      "die Ortszeit des Meridians dessen Längenunterschied zum Meridian von Greenwich durch 15",
+      "teilbar ist",
+      "Greenwichzeit des Meridians plus Local Hour Angle",
+      "MOZ + WOZ die Ortszeit des Meridians dessen Längenunterschied zum Meridian von Greenwich durch 12 teilbar ist"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.01",
+    "question": "Wie viele Bücher über Seekartensymbole und Abkürzungen in Seekarten gibt es?",
+    "answers": [
+      "Hydrografische Institute verschiedener Länder geben eigene Versionen der \"INT1\" heraus",
+      "es gilt weltweit nur das Buch „Symbols and Abbreviations“ der IALA",
+      "es gibt nur die „INT 1“ des BSH",
+      "es gibt 3 Publikationen: Deutschland, USA und Japan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.02",
+    "question": "Wo findet man zur Navigation zweckmäßige Wind- und Strominformationen des Atlanischen Ozeans?",
+    "answers": [
+      "in Ozeanhandbüchern",
+      "im atlantischen Leuchtfeuerverzeichnis",
+      "auf Überseglern",
+      "im Atlas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.03",
+    "question": "Was ist eine Monatskarte?",
+    "answers": [
+      "Karte von Ozeanen, welche die typischen Wind- und Stromverhältnisse für einen Monat wiedergibt",
+      "Karte mit den Gezeiteninformationen an einem Küstenstrich für einen Monat im Jahr",
+      "Karte von Ozeanen, welche die typischen Wind- und Stromverhältnisse für jeden einzelnen Tag im",
+      "Monat wiedergibt Eintrittskarte in ein geschütztes Seegebiet, welche für einen Monat Gültigkeit hat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.04",
+    "question": "Aus welchem Buch können die Positionen der Gestirne für jeden Tag eines Jahres entnommen werden?",
+    "answers": [
+      "Nautisches Jahrbuch",
+      "Sterne Atlas für Astrologen",
+      "Navigatorisches Gestirne - Jahrbuch",
+      "Astronomisches Leuchtfeuerverzeichnis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.05",
+    "question": "Wie heißen die Tabellenwerke welche den Rechenprozess für das nautische Dreieck unterstützen?",
+    "answers": [
+      "Sight Reduction Tables",
+      "nautische trigonometrische Tabellen",
+      "Logarithmentafeln",
+      "Selected Stars"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.06",
+    "question": "Wozu dienen die Tafelwerke HO249?",
+    "answers": [
+      "zur Berechnung des nautischen Dreieckes",
+      "zur Berechnung der Aberration der Fixsrerne",
+      "zur Berechnung der Refraktion bei Sonnenauf- und Untergang",
+      "zur Berechnung des Himmelsviereckes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.2.07",
+    "question": "In welchen Karten sind die Stromrichtung und Stärke angegeben?",
+    "answers": [
+      "in Stromatlanten",
+      "im Atlanisatlas",
+      "in Vektorkarten",
+      "in Strömungswetterkarten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.01",
+    "question": "Warum funktioniert ein Kugelkompass nicht auf allen geografischen Breiten gleich gut?",
+    "answers": [
+      "weil die magnetischen Feldlinien mit zunehmender geografischen Breite mehr zur Erde zeigen",
+      "weil die magnetischen Feldlinien mit zunehmender geografischen Breite mehr zum Polarstern zeigen",
+      "weil sich die Ablenkung mit der geografischen Breite stark verändert",
+      "weil die Erde ein Ellipsoid ist und im Polgebiet abgeplattet ist"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.02",
+    "question": "Warum könnte der magnetische Kugelkompass im hohen Norden ungenau werden?",
+    "answers": [
+      "weil die Horizontalkomponente der Feldlinien abnimmt",
+      "weil die Vertikalkomponente der Feldlinien abnimmt",
+      "weil sich die Ablenkung durch Eisberge verändert",
+      "weil kalte Luft die Missweisung dreht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.03",
+    "question": "Wie kann die Ablenkung des Schiffskompasses überprüft werden?",
+    "answers": [
+      "mit dem Azimut der Sonne zum Zeitpunkt des Sonnenunterganges",
+      "mit der Deklination der Sonne zum Zeitpunkt des Schiffsmittags",
+      "mit den Kompensiermagneten in Schiffsrichtung und quer dazu",
+      "mit dem Schatten der Kompassrose im Kompassgehäuse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.04",
+    "question": "Was hilft bei der Erstellung einer Ablenkungstabelle des Schiffskompasses mit dem Sonnenstand (Zeitazimut)?",
+    "answers": [
+      "Schattenstift",
+      "Schattenloch",
+      "Sonnenuhr",
+      "Schattenstrich"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.05",
+    "question": "Wie kann man eine Ablenkungstabelle für den Schiffskompass mittels Sonnenazimut erstellen?",
+    "answers": [
+      "Sonnenazimut über Peilscheibe bei verschiedenen Kursen messen",
+      "Sonnenazimut mit GPS bei verschiedenen Kursen messen",
+      "Sonnendeklination mit Peilscheibe bei verschiedenen Kursen messen",
+      "Schiffskompasspeilung zu Schiffsmittag auf Nordkurs, zu Sonnenuntergang auf Westkurs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.06",
+    "question": "Mit welchen rechtweisenden Peilungen kann man astronomische Ablenkungskontrolle machen?",
+    "answers": [
+      "Gestirnsazimut",
+      "Gestirnsdeklination",
+      "Abstand von Aries",
+      "Zenitdistanz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.07",
+    "question": "Wie heisst das traditionelle Navigationsinstrument zur Messung der Höhe von Gestirnen auf hoher See?",
+    "answers": [
+      "Sextant",
+      "GPS mit Sextantenanschluss",
+      "Navtex",
+      "Marineglas mit Höhenwinkelmesser"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.08",
+    "question": "Was versteht man unter Strahlengang im Sextant?",
+    "answers": [
+      "Gestirn – großer Spiegel – kleiner Spiegel – Fernrohr",
+      "Gestirn – kleiner Spiegel – großer Spiegel – Fernrohr",
+      "Auge - Fernrohr – Gestirn – kleiner Spiegel",
+      "Fernrohr – großer Spiegel – kleiner Spiegel – Gestirn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.09",
+    "question": "Woran erkennt man ob die Spiegel eines Sextanten normal zur Instrumentenebene stehen?",
+    "answers": [
+      "bei Drehung um Fernrohrachse darf kein Sprung in der Kimm entstehen.",
+      "bei Drehung um die Fernrohrachse darf die Kimm nicht schräg stehen",
+      "das Azimut darf sich nicht verändern mit der Höhe",
+      "am parallelen Strahlengang zum Limbus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.3.10",
+    "question": "Welcher Fehler eines Sextanten kann vor jeder Messung zwecks Korrektur des Messergebnisses kontrolliert werden?",
+    "answers": [
+      "Indexfehler",
+      "Alhidadenfehler",
+      "Noniusfehler",
+      "Linsenfehler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.4.01",
+    "question": "Was bedeutet der englische Ausdruck \"rhumb line\"?",
+    "answers": [
+      "englische Bezeichnung für Loxodrome",
+      "englische Bezeichnung für Orthodrome",
+      "englische Bezeichnung für Mittelbreite",
+      "englische Bezeichnung für Abweitung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.4.02",
+    "question": "Was ist \"dead reckoning\"?",
+    "answers": [
+      "englische Bezeichnung für koppeln",
+      "englische Bezeichnung für falsch rechnen",
+      "englische Bezeichnung für Rechenort",
+      "englische Bezeichnung für Zeitfehler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.4.03",
+    "question": "Wo kann man Angaben über die Stromverhältnisse in größeren Seegebieten finden?",
+    "answers": [
+      "in einem Stromatlas",
+      "in den British Admirality Tide Tables",
+      "auf einem Übersegler",
+      "in Hochsee - Sportbootkarten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.4.04",
+    "question": "Welches Symbol kann auf einer Seekarte sein um einen Punkt zu definieren für den die Stromverhältnisse angegeben werden?",
+    "answers": [
+      "Diamond",
+      "Rubin",
+      "Saphir",
+      "Smaragd"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.01",
+    "question": "Wann werden Fixsternbeobachtungen am besten durchgeführt?",
+    "answers": [
+      "in der bürgerlichen Dämmerung",
+      "um Mitternacht",
+      "mittags",
+      "bei 10 Grad Sonnenhöhe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.02",
+    "question": "Was verstehen Sie unter Mittelbreite?",
+    "answers": [
+      "die Mittelbreite liegt in der Mitte der Breite des Startpunktes und des Zielpunktes",
+      "das ist die mittlere Navigationsbreite auf der Seekarte",
+      "die Mittelbreite ist die geografische Breite für die der Maßstab der Seekarte genau stimmt",
+      "Mittelbreite ist anderes Wort für „mittlere Breiten“"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.03",
+    "question": "Was ist der \"Gang\" einer Uhr?",
+    "answers": [
+      "der Gang ist die Änderung des Standes",
+      "der Gang ist die Differenz zur richtigen Zeit",
+      "der Gang ist die Differenz zu UT1",
+      "der Gang ist der Lauf des Sekundenzeigers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.04",
+    "question": "Was ist der \"Stand“ einer Uhr?",
+    "answers": [
+      "der Stand ist die Differenz zur richtigen Zeit",
+      "der Stand ist der Verlauf zur richtigen Zeit",
+      "der Stand ist die Veränderung zu UT1",
+      "der Stand ist die gesamte Laufzeit der Uhr ab dem Zeitpunkt der Eichung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.05",
+    "question": "Welcher Wert zeigt an, wie sich der Stand der Uhr mit der Zeit verändert?",
+    "answers": [
+      "der Gang einer Uhr",
+      "der UTC-Vorlauf",
+      "der Standzeiger einer Uhr",
+      "der Zehntelsekundenwert"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.06",
+    "question": "Welche Messungen werden auf hoher See mit dem Sextanten durchgeführt?",
+    "answers": [
+      "Höhenwinkelmessungen auf die Sonne, den Mond und die Gestirne",
+      "abgestumpfte Sextanten Messungen auf die Sonne",
+      "in der Nacht werden der Mond und die Sterne geschossen",
+      "Höhenwinkelmessung auf Frachtschiffe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.07",
+    "question": "Mit welchen Einrichtungen am Sextanten werden die Grade und Minuten eingestellt?",
+    "answers": [
+      "mit der Alhidade und der Messtrommel",
+      "mit dem Limbus und dem Nonius",
+      "bei neueren Sextanten kann man die Werte im Fernrohr ablesen",
+      "mit den + und – Tasten am LCD-Gradmesser"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.08",
+    "question": "Wie kann man einen Indexfehler erkennen?",
+    "answers": [
+      "Kimmprobe am \"Seehorizont\"",
+      "Probemessung des Zenits",
+      "Verdrehen des großen Spiegels",
+      "Höhenmessung mit 2 verschiedenen Sextanten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.09",
+    "question": "Was bedeutet Indexberichtigung?",
+    "answers": [
+      "die Berichtigung des Messergebnisses am Vor- oder Hauptbogen",
+      "die jährliche Eichung des Sextanten",
+      "die Berichtigung der Missweisung am Limbus",
+      "die Einstellung für die Azimut Beschickung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.10",
+    "question": "Welche Methoden der Indexfehlerfeststellung gibt es?",
+    "answers": [
+      "Kimmprobe und springender Schornstein",
+      "Fernrohrtest und springender Spiegel",
+      "Nachtprobe und Sonnenuntergangsazimut",
+      "Freibordtest zum Bug und Heck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.11",
+    "question": "Benötigen wir für einen Sextanten eine Indextabelle?",
+    "answers": [
+      "nein, der Indexfehler wird vor jeder Messung neu ermittelt",
+      "ja, sie wird wie eine Deviationstabelle für verschiedene Höhen erstellt",
+      "ja, diese wird beim Kauf mitgeliefert",
+      "ja, sie wird jährlich im Nautischen Almanach abgedruckt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.12",
+    "question": "Was kann man tun, um einen Fixstern leichter zu finden?",
+    "answers": [
+      "Höhe vorausberechnen und Sextant voreinstellen",
+      "den künstlichen Horizont des Sextanten einblenden",
+      "dunklere Blendgläser am Indexspiegel verwenden",
+      "Deklination ausrechnen und den Kompass einblenden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.13",
+    "question": "Was ist der Vorteil von \"Einpendeln\" beim Messen der Höhe?",
+    "answers": [
+      "es werden keine zu großen Höhen gemessen",
+      "die Messung ist auch bei großem Wellengang möglich",
+      "der Abstand zwischen Kimm und Strahlengang wird größer",
+      "die Kimm ist besser zu erkennen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.14",
+    "question": "Was braucht man zur Beobachtung der Sonne?",
+    "answers": [
+      "Blendgläser",
+      "dunkle Sonnenbrille",
+      "Spezialblendspiegel",
+      "UV Filter mit Hitzeschutz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.15",
+    "question": "Warum werden Fixsternbeobachtungen am besten in der bürgerlichen Dämmerung durchgeführt?",
+    "answers": [
+      "die Kimm ist in dieser Zeit noch sichtbar, die Gestirne werden gerade sichtbar",
+      "die Kimm ist in dieser Zeit unsichtbar, die Gestirne am besten sichtbar",
+      "die Refraktion ist in dieser Zeit am geringsten",
+      "der Strahlengang am Sextanten ist in dieser Zeit am besten sichtbar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.16",
+    "question": "Welche Sterne schießt man in der Morgendämmerung zuerst?",
+    "answers": [
+      "die östlichsten Sterne",
+      "die westlichsten Sterne",
+      "Zirkumpolarsterne",
+      "Fixsterne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.17",
+    "question": "Welche Sterne schießt man in der Abenddämmerung zuerst?",
+    "answers": [
+      "die östlichsten Sterne",
+      "die westlichsten Sterne",
+      "Zirkumpolarsterne",
+      "Fixsterne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.18",
+    "question": "Welches ist eine Beschickung für Sextantenhöhen?",
+    "answers": [
+      "Indexberichtigung",
+      "Beschickung für Schiffsneigung",
+      "Beschickung für Polardistanz",
+      "Beschickung für Strom"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.19",
+    "question": "Welches ist eine Beschickung für Sextantenhöhen?",
+    "answers": [
+      "Refraktion",
+      "Beschickung für Luftdruckveränderung",
+      "Beschickung für Aries",
+      "Beschickung für Missweisung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.20",
+    "question": "Welches ist eine Beschickung für Sextantenhöhen?",
+    "answers": [
+      "Parallaxe",
+      "Parallele",
+      "Beschickung für Rechenort",
+      "Beschickung für Frühlingspunkt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.21",
+    "question": "Welches ist Bestandteil der Sextantenhöhe?",
+    "answers": [
+      "Kimmtiefe",
+      "Deklination",
+      "Gezeitenhöhe",
+      "Ablenkung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.22",
+    "question": "Was ist die Kimmtiefe?",
+    "answers": [
+      "Korrektur der Sextantenhöhe aufgrund der Augenhöhe",
+      "Korrektur der Sextantenhöhe aufgrund der Wellenhöhe",
+      "Korrektur der Sextantenhöhe aufgrund der Refraktion",
+      "Korrektur der Sextantenhöhe aufgrund der Wassertiefe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.23",
+    "question": "Der Winkel unter dem man den Erdradius des Standpunktes vom Mittelpunkt eines Gestirns aus sieht heißt?",
+    "answers": [
+      "Parallaxe",
+      "Azimut",
+      "Deklination",
+      "Gestirnhöhe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.24",
+    "question": "Wie wird die Horizontal - Parallaxe definiert?",
+    "answers": [
+      "Winkelfehler durch Distanz zwischen Erdmittelpunkt und Standpunkt bei Gestirnshöhe 0°",
+      "Winkelfehler durch Distanz zwischen Erdmittelpunkt und Zenith bei Gestirnshöhe 90°",
+      "Winkelfehler durch Distanz zwischen Bildpunkt und Standpunkt bei Gestirnshöhe 0°",
+      "Winkelfehler durch Distanz zwischen Erdmittelpunkt und Bildpunkt bei Gestirnshöhe 90°"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.25",
+    "question": "Bei welchen Gestirnen muss man mit der Horizontal-Parallaxe rechnen?",
+    "answers": [
+      "Mond, Sonne und Planeten",
+      "alle Fixsterne",
+      "nur Mond",
+      "nur Mond, Sonne, Jupiter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.26",
+    "question": "Die Parallaxe wird kleiner mit größerer...",
+    "answers": [
+      "gemessenen Höhe",
+      "Zeitdifferenz",
+      "berechneter Zenitdistanz",
+      "Refraktion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.27",
+    "question": "Ist die Horizontal-Parallaxe des Mondes konstant?",
+    "answers": [
+      "nein",
+      "ja",
+      "ja, für eine konstante geografische Breite",
+      "nein, sie ändert sich aber nur alle 2 Jahre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.28",
+    "question": "Was bewirkt die Refraktion?",
+    "answers": [
+      "einen Fehler bei Höhenwinkelmessung",
+      "eine Parallaxe bei Sonnenaufgang und Sonnenuntergang",
+      "einen Indexfehler bei der Höhenwinkelmessung",
+      "eine Indexabweichung beim Polarstern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.29",
+    "question": "Welches Vorzeichen hat die Refraktion?",
+    "answers": [
+      "minus",
+      "plus",
+      "plus oder minus je nach Temperatur",
+      "plus bei Sonnenaufgang, minus bei Sonnenuntergang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.30",
+    "question": "Welche Auswirkung kann die Refraktion haben?",
+    "answers": [
+      "bei Höhenwinkelmessung erscheint das Gestirn zu hoch",
+      "der scheinbare Horizont wird höher",
+      "bei Höhenwinkelmessung erscheint das Gestirn zu niedrig",
+      "bei Blendgläsern wird das Gestirn verzerrt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.31",
+    "question": "Was ist die Ekliptik?",
+    "answers": [
+      "die Ebene in der sich die Planeten näherungsweise bewegen",
+      "die Ebene in der sich der Mond bewegt",
+      "die Ebene in der sich die planetaren Fixsterne befinden",
+      "die Ebene in der sich der Großkreis des Standpunktes näherungsweise befindet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.32",
+    "question": "Die scheinbare Sonnenbahn befindet sich in ...",
+    "answers": [
+      "der Ekliptik",
+      "dem Wendekreis",
+      "dem Polarkreis",
+      "der Horizontebene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.33",
+    "question": "Wie heißen Großkreise normal zum Horizont im Horizontsystem?",
+    "answers": [
+      "Vertikalkreise",
+      "Meridianoberkreise",
+      "Äquatorialnormale",
+      "Normalkreise"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.34",
+    "question": "Welcher ist ein Großkreis im Äquatorialsystem?",
+    "answers": [
+      "Himmelsäquator",
+      "Vertikalkreis",
+      "scheinbarer Horizont",
+      "Nebenkreise zum Äquator"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.35",
+    "question": "Was ist der Komplementärwinkel zur Zenitdistanz?",
+    "answers": [
+      "wahre Höhe",
+      "Zenitneigung",
+      "Zenitwinkel",
+      "gemessene Höhe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.36",
+    "question": "Was ist die Abweichung eines Gestirnes?",
+    "answers": [
+      "Deklination",
+      "Erration",
+      "Winkel zum Frühlingspunkt",
+      "die Positionsänderung pro Etmal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.37",
+    "question": "Was ist der Komplementärwinkel zur Poldistanz?",
+    "answers": [
+      "Deklination",
+      "Polneigung",
+      "Pol-Zenit-Distanz",
+      "gemessene Höhe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.38",
+    "question": "Welcher Großkreis gehört dem Himmelsäquatorsystem und dem Horizontsystem an?",
+    "answers": [
+      "Himmelsmeridian",
+      "Vertikalkreis",
+      "Horizontkreis",
+      "Abweichungsparallele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.39",
+    "question": "Was sind zwei Seiten des nautisch sphärischen Dreieckes?",
+    "answers": [
+      "Zenitdistanz und Poldistanz",
+      "Pol-Zenitdistanz und Deklinationsbogen",
+      "Poldistanz und Höhenbogen",
+      "Breitenbogen und Zenitdistanz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.40",
+    "question": "Was ist der Bildpunkt?",
+    "answers": [
+      "Durchstoßpunkt der Geraden Gestirn - Erdmittelpunkt durch die Erdoberfläche",
+      "Schattenpunkt des Zenits auf der Erdoberfläche",
+      "Durchstoßpunkt der Geraden Gestirn – Beobachter mit der Erdoberfläche",
+      "Punkt an dem die Normale vom Gestirn zur Erdoberfläche die Kimm erreicht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.41",
+    "question": "Wie liegt eine Standlinie in der Seekarte wenn die Höhe eines Gestirnes gemessen wurde?",
+    "answers": [
+      "normal zum Azimut des Bildpunktes",
+      "vom Bildpunkt zum Rechenort",
+      "parallel zum Azimut des Bildpunkt",
+      "um den Höhenwinkel vom Azimut des Bildpunktes verdreht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.42",
+    "question": "Welche Abweichung vom Rechenort ergibt sich in der Seekarte wenn ein Gestirn mit größerer Höhe gemessen wurde?",
+    "answers": [
+      "Höhendifferenz in Minuten = Seemeilen in Richtung zum Bildpunkt",
+      "Höhendifferenz in Minuten = Seemeilen in Richtung vom Bildpunkt weg",
+      "Höhendifferenz in Sekunden = Seemeilen in Richtung Standlinie nach Süden",
+      "Höhendifferenz in Sekunden = Seemeilen in Richtung Standlinie nach Norden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.43",
+    "question": "Welche Abweichung vom Rechenort ergibt sich in der Seekarte wenn ein Gestirn mit kleinerer Höhe gemessen wurde?",
+    "answers": [
+      "Höhendifferenz in Minuten = Seemeilen in Richtung vom Bildpunkt weg",
+      "Höhendifferenz in Minuten = Seemeilen in Richtung zum Bildpunkt",
+      "Höhendifferenz in Sekunden = Seemeilen in Richtung Standlinie nach Süden",
+      "Höhendifferenz in Sekunden = Seemeilen in Richtung Standlinie nach Norden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.44",
+    "question": "Was ist die Höhengleiche?",
+    "answers": [
+      "kreisförmige Standlinie um den Bildpunkt eines Gestirns",
+      "zweite Messung der Höhe nach Kulmination",
+      "geradlinige Standlinie vom Bildpunkt zum Nordpol",
+      "gleiche Sonnenhöhe im Jahresrhythmus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.45",
+    "question": "Warum sind Höhen über 80° zur Gewinnung astronomischer Standlinien schlecht verwendbar?",
+    "answers": [
+      "die Höhengleiche kann nicht mehr durch eine Gerade angenähert werden",
+      "die Höhengleiche kann nicht mehr auf der Seekarte dargestellt werden",
+      "der Sextant wird zu ungenau über 80 Grad",
+      "man müsste beim Messen der Höhen auf dem Rücken liegen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.46",
+    "question": "Was ist der Leitpunkt?",
+    "answers": [
+      "Schnittpunkt von Azimutstrahl und Tangente an die Höhengleiche",
+      "Schnittpunkt von Azimutstrahl und Bildpunkt",
+      "Schnittpunkt von Höhengleiche und Äquator",
+      "Schnittpunkt von Standlinie und Tangente an die Höhengleiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.47",
+    "question": "Die Beobachtungsuhr ist bei Ermittlung eines astronomischen Standortes um 10 Sekunden vorgegangen. Wie müssen Sie Ihren Standort korrigieren?",
+    "answers": [
+      "den Ort um 2,5 Längenminuten nach Osten verschieben",
+      "den Ort um 2,5 Längenminuten nach Westen verschieben",
+      "den Ort um 2,5 Längenminuten nach Norden verschieben",
+      "den Ort um 2,5 Längenminuten nach Süden verschieben"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.48",
+    "question": "Welche Ungenauigkeiten sind typisch bei der astronomischen Standortbestimmung?",
+    "answers": [
+      "ungenaue Beschickungen der Höhenmessung und ungenaue Uhrzeit",
+      "falsche astronomische Jahrbücher und Pub.249",
+      "unvorhergesehene Bewegungen der Planeten und der Sonne",
+      "regelmäßige Satellitenausfälle des GPS Systems"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.49",
+    "question": "Wo steht das Gestirn zum Zeitpunkt seiner Kulmination?",
+    "answers": [
+      "es geht durch den Himmelsmeridian des Beobachters",
+      "es geht durch den oberen Bogen der Höhengleiche",
+      "genau südlich oder nördlich von Greenwich",
+      "ein Gestirn kulminiert nicht, nur der Bildpunkt kulminiert"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.50",
+    "question": "Ein Gestirn steht genau im Himmelsmeridian des Beobachters. Wie heißt dieser Moment?",
+    "answers": [
+      "Kulmination",
+      "Zenitgleiche",
+      "Höhengleiche",
+      "Gestirnhochstand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.51",
+    "question": "Was ist der Bildpunkt?",
+    "answers": [
+      "der Punkt auf der Erdoberfläche auf dem das Gestirn im Zenit steht",
+      "der Punkt des Gestirns auf der Sternenkarte",
+      "der Punkt des Gestirns auf dem Erdäquator",
+      "der Punkt auf der Erdoberfläche auf dem der Beobachter steht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.52",
+    "question": "Was ist obere Kulmination?",
+    "answers": [
+      "das Gestirn geht durch den Meridian des Beobachters mit größter Höhe",
+      "das Gestirn geht durch den Hauptmeridian der nördlichen Himmelskugel",
+      "das Gestirn kulminiert nördlicher als am 21.3.",
+      "die Kulmination ist im oberen Bereich des Zenitbogens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.53",
+    "question": "Was versteht man unter der Amplitude?",
+    "answers": [
+      "Winkel am wahren Horizont zwischen Aufgangspunkt und Ostpunkt",
+      "Winkel am wahren Horizont zwischen Aufgangspunkt und Nordpunkt",
+      "Winkel am wahren Horizont zwischen Aufgangspunkt und Südpunkt",
+      "Winkel am wahren Horizont zwischen Aufgangspunkt und Westpunkt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.54",
+    "question": "Wann ist die Amplitude der Sonne null Grad?",
+    "answers": [
+      "wenn sie genau im Osten auf- und im Westen untergeht",
+      "wenn sie gerade nicht mehr untergeht",
+      "wenn sie genau auf -6 Grad auf- und untergeht",
+      "wenn sie gerade nicht mehr aufgeht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.55",
+    "question": "Was versteht man unter Amplituden-Verfahren?",
+    "answers": [
+      "die Verwendung des Sonnenazimuts beim wahren Auf- oder Untergang",
+      "die Verwendung der Mittagshöhe vor und nach Mittag",
+      "die Messung der Höhen durch einpendeln des Sextanten",
+      "die Messung der Mondgröße bei verschiedenen Höhen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.56",
+    "question": "Wo steht die Sonne bei Messungen mit dem Amplituden-Verfahren?",
+    "answers": [
+      "am Horizont",
+      "12 Grad unter Horizont",
+      "6 Grad unter Horizont",
+      "18 Grad unter Horizont"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.57",
+    "question": "Welche Gestirne werden im Amplituden-Verfahren verwendet ?",
+    "answers": [
+      "nur die Sonne",
+      "Sonne Mond und Planeten",
+      "nur Fixsterne",
+      "alle in der Morgen- und Abenddämmerung erkennbaren Gestirne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.58",
+    "question": "Wann kann rechnerisches Koppeln vorteilhaft sein?",
+    "answers": [
+      "wenn keine Seekarte mit geeignetem Maßstab vorliegt",
+      "wenn der Loggefaktor nur rechnerisch vorliegt",
+      "wenn die gefahrenen Etmale klein sind",
+      "wenn die Seekarte nur als Merkatorkarte vorliegt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.59",
+    "question": "Wie wird die Länge der Abweitung in Seemeilen errechnet?",
+    "answers": [
+      "Längenunterschied mal Cosinus der geografischen Breite",
+      "Längenunterschied mal Sinus der geografischen Breite",
+      "Breitenunterschied mal Cosinus der geografischen Länge",
+      "Breitenunterschied mal Sinus der geografischen Länge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.60",
+    "question": "Was ist der Unterschied zwischen den Zeitangaben UTC und UT1?",
+    "answers": [
+      "bei UT1 gibt es keine sprunghaften Anpassungen an die Geschwindigkeit der Erdrotation",
+      "bei UT1 wird die geomorphe Verlagerung von Greenwich mit eingerechnet",
+      "bei UTC gibt es keine sprunghaften Anpassungen an die Geschwindigkeit der Erdrotation",
+      "bei UT1 wird die Geschwindigkeit der Erdrotation gar nicht berücksichtigt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.61",
+    "question": "Kann eine astronomische Standlinie versegelt werden?",
+    "answers": [
+      "ja, mit der Distanz über Grund",
+      "ja, aber nur auf der Mittelbreite",
+      "ja, aber man muss die Verschiebung des \"Schiffsmittag\" mitrechnen",
+      "ja, aber nur um ein Etmal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.62",
+    "question": "Was sind \"plotting sheets\" zum Navigieren?",
+    "answers": [
+      "auf \"plotting sheets\" wird sowohl horizontal als auch vertikal eine Grad- und Minuteneinteilung aufgetragen, sodass sie wie eine Merkatorkarte benutzbar sind",
+      "auf \"plotting sheets\" wird sowohl radial als auch tangential eine Grad- und Minuteneinteilung aufgetragen, sodass sie wie eine Gnomonische Karte benutzbar sind",
+      "auf \"plotting sheets\" wird sowohl horizontal als auch vertikal dieselbe Grad- und Minuteneinteilung aufgetragen, sodass sie wie ein Koordinatensystem benutzbar sind",
+	  "auf \"plotting sheets\" wird wird radial die Entfernung und tangential die Peilung aufgetragen, sodass sie zur Navigation mit Azimutalprojektion benutzbar sind"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.63",
+    "question": "Welche Verfahren zur Ermittlung von Standlinien können auch ohne genaue Chronometerzeit benutzt werden?",
+    "answers": [
+      "Mittagsbreite, Polarsternbreite und Chronometerlänge",
+      "Chronometerstandlinie, Mittagspeilung und Polmeridian",
+      "Mittagslänge, Polarsternmeridian und Chronometerbreite",
+      "Orionbreite, Polarsternlänge und Venushöhe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 C.6.64",
+    "question": "Was ist ein sphärisches Dreieck?",
+    "answers": [
+      "ein Dreieck auf einer Kugeloberfläche",
+      "ein Dreieck zwischen Erdoberfläche und Himmelskugel",
+      "ein Dreieck in der Stratosphäre",
+      "ein Dreieck zwischen Zenith und Äquatoebene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.2.01",
+    "question": "Wann ist der Gradient des Luftdruckes \"1\"?",
+    "answers": [
+      "wenn sich der Luftdruck um 1 Hektopaskal pro 60 Seemeilen ändert",
+      "wenn sich der Luftdruck über weite Strecken nicht ändert",
+      "wenn sich der Luftdruck um 1 Hektopaskal pro 12 Seemeilen ändert",
+      "wenn sich der Luftdruck um 1 Millimeter pro 30 Seemeilen ändert"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.2.02",
+    "question": "Wie heißen die konstanten Windzellen welche die Passatwinde verursachen?",
+    "answers": [
+      "Headleyzellen",
+      "Hochdruckzellen",
+      "Passatzellen",
+      "Rosszellen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.2.03",
+    "question": "Der Nordostpassat entsteht durch.....",
+    "answers": [
+      "aufsteigende Luft in den Doldrums und absteigende Luft in den Rossbreiten",
+      "absteigende Luft über Roaring Fourties und aufsteigende Luft am Südpol",
+      "aufsteigende Luft in den Rossbreiten und absteigende Luft in den Doldrums",
+      "absteigende Luft über Grönland und aufsteigende Luft am Nordpol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.2.04",
+    "question": "Welche Windstärke wird in Wetterberichten meistens angegeben?",
+    "answers": [
+      "die Windstärke in 10 Metern Höhe",
+      "der Bodenwind in 2 Metern Höhe",
+      "die Windstärke in 100 Metern Höhe",
+      "die Windstärke über den Berggipfeln"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.01",
+    "question": "Warum ist die Rotationsrichtung von Tiefdruckgebieten auf der Nord- und Südhalbkugel unterschiedlich?",
+    "answers": [
+      "weil die Ablenkung der strömenden Luft einmal nach rechts und einmal nach links erfolgt",
+      "weil die Antarktis eine große Landmasse bildet, die Arktis aber eine große Meeresfläche",
+      "weil die Ablenkung der strömenden Luft einmal nach aufwärts und einmal nach abwärts erfolgt",
+      "weil die Erde im Norden im Uhrzeigersinn rotiert, im Süden gegen den Uhrzeigersinn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.02",
+    "question": "Wodurch werden die grundsätzlichen Zugrichtungen der Tiefdruckgebiete beeinflußt?",
+    "answers": [
+      "durch die Jetstreams",
+      "durch Ladungen in der Ionosphäre",
+      "durch die Meeresströmungen",
+      "durch Gegenströme in der Stratosphäre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.03",
+    "question": "Warum können Tröge gefährlich sein?",
+    "answers": [
+      "weil dort der Isobarenabstand sehr klein wird",
+      "weil dort der Isogonenabstand sehr groß wird",
+      "weil dort der Isobarenabstand sehr groß wird",
+      "weil dort der Isogonenabstand sehr gering wird"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.04",
+    "question": "Was verstehen Sie unter dem Ausdruck „Rückseitenwetter“?",
+    "answers": [
+      "nach dem Durchzug der Kaltfront befindet man sich auf der Rückseite der Front, die Sicht bessert sich",
+      "nach dem Durchzug der Warmfront befindet man sich im Warmluftsektor, dieser wird in der meteorologischen Fachsprache als Rückseitenwetter bezeichnet",
+      "da Fronten rund um den Erball ziehen, wird der Antipode einer Tiefdruckwelle als Rückseitenwetter bezeichnet",
+	  "die Rückseite einer Gewitterzelle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.05",
+    "question": "Was ist eine Zyklone, wie weht der Wind auf der Südhalbkugel?",
+    "answers": [
+      "ein Tiefdruckgebiet, der Wind weht auf der Südhalbkugel im Uhrzeigersinn in das Zentrum",
+      "ein Hochdruckgebiet, der Wind weht auf der Südhalbkugel gegen den Uhrzeigersinn in das Zentrum",
+      "ein Tiefdruckgebiet, der Wind weht auf der Südhalbkugel gegen den Uhrzeigersinn in das Zentrum",
+      "ein Hochdruckgebiet, der Wind weht auf der Südhalbkugel im Uhrzeigersinn in das Zentrum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.06",
+    "question": "Wie dreht der Wind in einer Antizyklone auf der süddlichen Halbkugel?",
+    "answers": [
+      "gegen den Uhrzeigersinn aus dem Maximum des Luftdruckes heraus",
+      "gegen den Uhrzeigersinn in das Minimum des Luftdruckes hinein",
+      "im Uhrzeigersinn aus dem Minimum des Luftdruckes heraus",
+      "im Uhrzeigersinn aus dem Maximum des Luftdruckes heraus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.07",
+    "question": "Wie wirkt die Corioliskraft auf aufsteigende Luft auf der Norhalbkugel?",
+    "answers": [
+      "von oben gesehen drehend gegen den Uhrzeigersinn",
+      "von der Seite gesehen drehend nach Norden",
+      "von oben gesehen drehend im Uhrzeigersinn",
+      "von der Seite gesehen drehend nach Süden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.4.08",
+    "question": "Wie wirkt die Corioliskraft auf aufsteigende Luft auf der Südhalbkugel?",
+    "answers": [
+      "von oben gesehen drehend im Uhrzeigersinn",
+      "von der Seite gesehen drehend nach Norden",
+      "von oben gesehen drehend gegen den Uhrzeigersinn",
+      "von der Seite gesehen drehend nach Süden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.8.01",
+    "question": "Wodurch entstehen relativ konstante großräumige Meeresströmungen weltweit?",
+    "answers": [
+      "durch unterschiedliche Meereserwärmung und unterschiedlichen Salzgehalt",
+      "durch veränderliche Mond- und Sonnenanziehungskräfte",
+      "durch unterschiedliche Meeresverschmutzung und Sauerstoffgehalt",
+      "durch Präzessionsbewegungen der Erdachse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.8.02",
+    "question": "Welcher Strom überquert den Atlantik vom Westen nach Osten auf cirka 40° nördlicher Breite?",
+    "answers": [
+      "Golfstrom",
+      "Atlantikstrom",
+      "Labradorstrom",
+      "Islandstrom"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.01",
+    "question": "Wie heißen die windschwachen Zonen auf den Ozeanen?",
+    "answers": [
+      "Doldrums, Kalmen, Mallungen",
+      "Rossbreiten, Südbreiten, Nordbreiten",
+      "Roaring Forties",
+      "Chinesisches Meer und Südsee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.02",
+    "question": "Die Passatwinde befinden sich…",
+    "answers": [
+      "zwischen der innertropischen Konvergenzzone und dem Subtropenhoch",
+      "am südlichen Rand der polaren Tiefdruckrinne",
+      "in der Kalmenzone",
+      "in der Zone der gemäßigten Breiten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.03",
+    "question": "Die äquatoriale Tiefdruckrinne entsteht durch",
+    "answers": [
+      "Aufsteigende Luftmassen in der ITC",
+      "Absteigende Luftmassen in der ITC",
+      "Passatwinddivergenz",
+      "Hohe Luftfeuchtigkeit in den Tropen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.04",
+    "question": "Der subtropische Hochdruckgürtel entsteht durch",
+    "answers": [
+      "Absinken von Luftmassen aus der Hadley-Zelle",
+      "Aufsteigen von Luftmassen in die Ferrel-Zelle",
+      "Tropen-Jetstream am Äquator",
+      "Westwinddrift"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.05",
+    "question": "Die Passatwinde entstehen unter anderem durch",
+    "answers": [
+      "das bodennahe Zusammenfließen von Luftmassen in der ITC",
+      "das Zusammenfließen von Luftmassen in der Höhe über der ITC",
+      "die Höhenkonvergenz von Luft über der ITC",
+      "das jahreszeitlich bedingte Wandern der ITC zwischen den Wendekreisen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.06",
+    "question": "Wo befindet sich der gefährliche Sektor eines tropischen Sturmes auf der Nordhalbkugel?",
+    "answers": [
+      "in Zugrichtung gesehen rechts",
+      "in Zugrichtung gesehen links",
+      "in Zugrichtung",
+      "im Lee der Zugrichtung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.07",
+    "question": "Eine Zone mit divergierenden Winden ist:",
+    "answers": [
+      "ein subtropischer Hochdruckgürtel",
+      "eine subpolare Tiefdruckrinne",
+      "eine äquatoriale Tiefdruckrinne",
+      "eine innertropische Konvergenzzone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.08",
+    "question": "Wo steht beschrieben wie sich Schiffe am besten in tropischen Wirbelstürmen verhalten?",
+    "answers": [
+      "Schubart: Praktische Orkankunde",
+      "Schönfärber: Dein Freund der Taifun",
+      "Schubert: Orkane und Klaviere",
+      "Schönbert: Die Winde im Mittelmeer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.09",
+    "question": "Wodurch entstehen die hohen Windstärken in tropischen Wirbelstürmen?",
+    "answers": [
+      "durch die Rotation der Luft rund um das Auge und das Nachströmen der Luft in das Auge",
+      "durch die durch den Sonnenwind beschleunigte Luft in großen Höhen",
+      "durch die Rotation der Luft rund um die Ränder und das Nachströmen der Luft an die Ränder",
+      "durch die durch Fallwinde beschleunigte Luft in Bodennähe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.10",
+    "question": "Warum sind die Winde auf beiden Seiten eines tropischen Wirbelsturmes links und rechts der Zugbahn verschieden stark?",
+    "answers": [
+      "weil sich die Zuggeschwindigkeit einmal addiert und einmal subtrahiert",
+      "weil die Corioliskraft die Luftmassen links von der Zugbahn beschleunigt",
+      "weil die Luftmassen im nördlichen Teil kälter sind als die im südlichen Teil",
+      "die Luftmassen eines tropischen Wirbelsturmes rotieren mit derselben Geschwindigkeit in allen Richtungen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.11",
+    "question": "Eine Zone mit konvergierenden Winden ist beispielsweise....",
+    "answers": [
+      "die äquatoriale Tiefdruckrinne",
+      "der subtropische Hochdruckgürtel",
+      "die Westwinddrift",
+      "die innertropische Hochdruckzone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.12",
+    "question": "Wodurch werden globale Windsysteme angeregt?",
+    "answers": [
+      "durch Tiefdruck am Äquator und Hochdruck an den Polen",
+      "durch Staulagen an den Küsten und Beschleunigung an Berghängen",
+      "durch Tiefdruck über den Azoren Hochdruck über Island",
+      "durch Beschleunigung der Luft über dem Äquator und Abbremsung über den Polen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.13",
+    "question": "Für welche Zeiträume werden in Pilot-Karten oder Routeing Charts die mittleren Windangaben meist abgedruckt?",
+    "answers": [
+      "eine Karte pro Monat",
+      "eine Karte pro Tag",
+      "eine Karte pro Jahr",
+      "pro Jahreszeit, 4 Karten pro Jahr"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.14",
+    "question": "Was sagt die Zahl im Kreis der Windsterne?",
+    "answers": [
+      "den Prozentsatz der Windstillen",
+      "den Prozentsatz der Stürme über 7 Bft",
+      "die Anzahl der Tornados pro Jahr",
+      "die Dauer der Windstillen in Tagen pro Monat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 E.10.15",
+    "question": "Was zeigen Windsterne?",
+    "answers": [
+      "den Prozentsatz der Windwahrscheinlichkeit für 8 verschiedene Richtungen",
+      "die Richtung des lokalen Windmaximums",
+      "den Prozentsatz an Winden über 6 Bft",
+      "Stärke der lokalen Winde in 8 verschiedenen Stufen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.1.01",
+    "question": "Womit kann man einen Notruf weit entfernt von der Küste absetzen ?",
+    "answers": [
+      "mit Seefunk über Kurzwelle",
+      "mit Seefunk über Very High Frequency",
+      "mit Seefunk über GPS",
+      "mit Seefunk über WiFi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.1.02",
+    "question": "Welche Kommunikationseinrichtung darf eine österreichische Jacht für weltweite Fahrt haben anstatt der Grenz/Kurzwellen Sprechfunkanlage haben?",
+    "answers": [
+      "Inmarsat C Anlage",
+      "Mobiltelefon mit Modemanschluss",
+      "UKW Sprechfunk mit weltweit-DSC",
+      "passive AIS Empfangsanlage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.1.03",
+    "question": "Welche Funkberechtigung benötigt man zum Betrieb einer Grenzwellen / Kurzwellen DSC Sprechfunkanlage?",
+    "answers": [
+      "Long Range Certificate",
+      "Long Range AIS Permission",
+      "Marine - Amateurfunklizenz II",
+      "Short Range Certificate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.1.04",
+    "question": "Kann man mit einem Satellitentelefon von Schiffen aus telefonieren?",
+    "answers": [
+      "ja, abhängig vom System weltweit",
+      "nein, die Spiegelantennen sind dazu zu empfindlich",
+      "ja, wenn der Satellit im Zenit ist",
+      "ja, wenn man den zusätzlichen Seegangstarif in Kauf nimmt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.1.05",
+    "question": "Womit kann man über Sprache und Text auch weit entfernt von der Küste kommunizieren ?",
+    "answers": [
+      "mit dem Satellitentelefon",
+      "mit dem GSM Telefon",
+      "mit dem WLAN tauglichen Seetelefon",
+      "mit dem VHF Telefon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.01",
+    "question": "Welche Fahrweise kann bei hohem Wellengang gefährlich sein?",
+    "answers": [
+      "Wellenkämme in voller Fahrt überfahren",
+      "Wellenkämme mit steuerbarer Fahrt überfahren",
+      "in Wellentäler schräg hineinfahren",
+      "unter der Rumpfgeschwindigkeit bleiben"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.02",
+    "question": "Was sollte man bei hohem Wellengang beachten?",
+    "answers": [
+      "die Geschwindigkeit ins Wellental nicht zu groß werden lassen",
+      "Wellenkämme mit möglichst großer Geschwindigkeit überfahren",
+      "in Wellentäler gerade hineingefahren bis zur nächsten Welle",
+      "das Schiff auf dem Wasser surfen und nicht tief eintauchen lassen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.03",
+    "question": "Was versteht man unter „Durchkentern“?",
+    "answers": [
+      "das Schiff wird um mehr als 180 Grad um die Längsachse gedreht und richtet sich wieder auf",
+      "das Schiff fährt mit dem Bug in die Welle und durch die Welle",
+      "das Schiff wird um 90 Grad um die Längsachse gedreht und richtet sich wieder auf",
+      "das Schiff wird von einer brechenden Welle überspült und läuft voll"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.04",
+    "question": "Was legt man in einer Notfallrolle fest?",
+    "answers": [
+      "die Aufgabenverteilung nötiger Maßnahmen in einem Notfall",
+      "die Funksprüche, welche im Notfall benutzt werden",
+      "die Rollenverteilung beim Üben eines Notfalles",
+      "die Gegenstände, welche in einem Notfall mitzunehmen sind"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.05",
+    "question": "In welcher Situation kommt es oft zum Durchkentern des Schiffes?",
+    "answers": [
+      "wenn eine steile Welle das Schiff von der Seite trifft",
+      "wenn die Dünung länger ist als die Schiffsbreite",
+      "wenn eine lange Welle das Schiff von Achtern trifft",
+      "wenn das Schiff aufgehoben wird und sich nur mehr der Propeller im Wasser dreht"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.06",
+    "question": "Was gehört zur Vorbereitung für Schlechtwetter?",
+    "answers": [
+      "eine Navigationsbesprechung",
+      "eine Kompasskompensation",
+      "eine Navigationspause",
+      "eine Navigationsübung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.07",
+    "question": "Was wird mit einem Wacheplan geregelt?",
+    "answers": [
+      "die zeitliche Zuteilung der Funktionen Wachführer, Navigator und Rudergänger",
+      "die Einteilung der Ablösung des Ausgucks alle 10 bis 12 Minuten",
+      "die räumliche Zuteilung der Schlafplätze von Wachführer, Navigator und Rudergänger",
+      "die zeitliche Zuteilung der Essenspausen für Wachführer, Navigator und Rudergänger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.08",
+    "question": "Von wo wird meistens empfohlen den Seeanker bei Sturm und hohem Seegang auszubringen?",
+    "answers": [
+      "vom Heck",
+      "von der Mittelklampe",
+      "vom Bug",
+      "vom Mastfuß"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.09",
+    "question": "Was ist wichtig bei der Navigation im Sturm?",
+    "answers": [
+      "dass man immer genügend Seeraum in Richtung von Wind und Welle zum Ablaufen hat",
+      "dass man immer wenig Seeraum zu Inseln hat um Wind und Welle auflaufen zu lassen",
+      "dass man immer genügend Seeraum in Richtung gegen Wind und Welle zum Gegenandampfen hat",
+      "dass man immer genügend Seeraum quer zu Wind und Welle zum Segeln auf Halbwindkurs hat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.10",
+    "question": "Wodurch vermindert man die Fahrt bei \"Ablaufen vor dem Wind\"?",
+    "answers": [
+      "durch einen Treibanker",
+      "durch ein Bremssegel am Achterstag",
+      "durch Ruder hart backbord oder steuerbord legen",
+      "durch eine Kielbremse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.11",
+    "question": "Was ist ein \"Notruder\"?",
+    "answers": [
+      "eine behelfsmäßige Anordnung zum Kurshalten bei Ruderbruch",
+      "ein aufblasbares Ruder für das Rettungsfloß",
+      "ein extra Paddel zum Fortbewegen bei Motorausfall",
+      "ein kleines Ruderblatt neben dem Ruder für Notfälle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.12",
+    "question": "Welchen Kurs fährt man beim \"Ablaufen vor dem Wind\"?",
+    "answers": [
+      "einen Kurs mit dem Wind oder leicht schräg mit dem Wind",
+      "einen Kurs quer zum Wind leicht am Wind",
+      "einen Kurs gegen den Wind oder leicht schräg gegen den Wind",
+      "keinen konstanten Kurs, je nachdem wie sich das Schiff bewegt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.2.13",
+    "question": "Was sollte vor Schlechtwetter in der Besprechung mit der Crew ausgearbeitet werden?",
+    "answers": [
+      "eine genaue Wacheeinteilung",
+      "ein Routenplan für die ganze Woche",
+      "ein Plan zum abwechselnden Tragen der Rettungswesten",
+      "eine neuerliche Sicherheitseinweisung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.3.01",
+    "question": "Der Motor fällt aus, Sie haben mit Pan Pan um Schlepphilfe angesucht, Wind und Wellen kommen auf. Wie verhindern Sie, dass das Schiff quer zu den Wellen treibt ?",
+    "answers": [
+      "Leinen oder Treibanker ausbringen",
+      "Gewichtsverlagerung nach Luv",
+      "Gewichtsverlagerung nach Lee",
+      "Rettungsinsel ausbringen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.3.02",
+    "question": "Was ist eine Notfallrolle?",
+    "answers": [
+      "eine Festlegung der Verantwortlichkeiten im Notfall",
+      "eine runde Form von Rettungsboot",
+      "eine Vorrichtung zum Leckabdichten im Notfall",
+      "eine Checkliste für den Funker im Notfall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4 F.3.03",
+    "question": "Auf Ihrem Verdränger mit starrer Welle und einer Schraube bricht der Ruderschaft. Wie können Sie eine Behelfssteuerung herstellen?",
+    "answers": [
+      "ich befestige an einer starken Pütz zwei Tampen und bringe die Pütz nach Achtern aus. Durch Dichtnehmen der Tampen an Steuer- oder Backbord lässt sich das Schiff steuern.",
+      "bei Bruch von Ruderschaft ist keinerlei Behelfssteuerung möglich. Ich fordere über Funk Schlepphilfe an mit einem mayday relay call.",
+	  "ich steuere mit dem Dingipaddel vom Bug aus indem ich mich weit nach vorne über den Anker lehne und das Paddel quer halte",
+	  "ich lasse den Anker an Steuerbord und an Backbord abwechselnd auf Grund fallen und grabe ihn ein. Der Bug schwenkt so in die jeweilige Richtung"
+    ],
+    "correctIndex": 0
+  }
+]

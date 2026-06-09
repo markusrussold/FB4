@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FB4 Fragen-Trainer – Segel- und Astro-Navigation">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="55%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#bae6fd"/>
+    </linearGradient>
+    <linearGradient id="north" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Light sky background -->
+  <rect width="512" height="512" rx="108" fill="url(#sky)"/>
+
+  <!-- Faint stars (astro navigation) -->
+  <circle cx="108" cy="96" r="5" fill="#93c5fd" opacity="0.9"/>
+  <circle cx="392" cy="84" r="4" fill="#93c5fd" opacity="0.75"/>
+  <circle cx="420" cy="156" r="3" fill="#bfdbfe" opacity="0.85"/>
+  <circle cx="88" cy="168" r="3" fill="#bfdbfe" opacity="0.85"/>
+
+  <!-- Sea / horizon (sailing) -->
+  <rect x="0" y="372" width="512" height="140" fill="url(#sea)"/>
+  <path d="M0 404 C96 374 160 434 256 404 C352 374 416 434 512 404" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Compass rose -->
+  <circle cx="256" cy="232" r="156" fill="#ffffff" stroke="#cbd5e1" stroke-width="12"/>
+  <circle cx="256" cy="232" r="138" fill="none" stroke="#3b82f6" stroke-width="8" opacity="0.75"/>
+
+  <!-- Minor compass points -->
+  <g fill="#cbd5e1">
+    <polygon points="256,88 270,132 242,132"/>
+    <polygon points="256,376 270,332 242,332"/>
+    <polygon points="412,232 368,246 368,218"/>
+    <polygon points="100,232 144,246 144,218"/>
+    <polygon points="344,120 330,154 308,132"/>
+    <polygon points="168,344 182,310 204,332"/>
+    <polygon points="344,344 308,332 330,310"/>
+    <polygon points="168,120 204,132 182,154"/>
+  </g>
+
+  <!-- Main compass needles -->
+  <polygon points="256,76 282,232 230,232" fill="url(#north)"/>
+  <polygon points="256,388 282,232 230,232" fill="#94a3b8"/>
+  <polygon points="400,232 256,252 256,212" fill="#b0bdd0"/>
+  <polygon points="112,232 256,252 256,212" fill="#b0bdd0"/>
+
+  <!-- Compass hub -->
+  <circle cx="256" cy="232" r="34" fill="#ffffff" stroke="#3b82f6" stroke-width="10"/>
+  <circle cx="256" cy="232" r="14" fill="#2563eb"/>
+
+  <!-- Polaris / North Star (celestial navigation) -->
+  <path d="M256 28 L266 62 L302 62 L274 84 L284 118 L256 96 L228 118 L238 84 L210 62 L246 62 Z" fill="#2563eb"/>
+
+  <!-- Sextant arc hint (astro navigation instrument) -->
+  <path d="M352 300 A120 120 0 0 0 160 300" fill="none" stroke="#60a5fa" stroke-width="12" stroke-linecap="round" opacity="0.55"/>
+</svg>

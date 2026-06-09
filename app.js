@@ -605,3 +605,12 @@ init().catch((err) => {
     "Details: " + err.message
   );
 });
+
+// Register service worker for offline shell + PWA installability (requires HTTPS or localhost).
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((err) => {
+      console.warn("Service worker registration failed:", err);
+    });
+  });
+}
